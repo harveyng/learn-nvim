@@ -39,6 +39,7 @@ Welcome to your structured Neovim learning journey! Every lesson completed will 
 ### 🔵 Phase 2: Precision Navigation & Visual Block (Days 21-28)
 - [x] Day 21: Jump History (`Ctrl-o`, `Ctrl-i`)
 - [x] Day 22: Search Patterns (`/`, `?`, `n`, `N`, `*`, `#`)
+- [ ] Day 23: Line Jumps (`gg`, `G`, `:[num]`, `{num}G`, `%`)
 - [ ] Day 24: Marks (`ma`, `'a`, `` `a ``)
 - [x] Day 25: Visual Block Column Editing (`Ctrl-v`)
 - [ ] Day 26: Indent Operations (`>>`, `<<`, `=`)
