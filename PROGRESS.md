@@ -6,7 +6,7 @@ Welcome to your structured Neovim learning journey! Every lesson completed will 
 
 ## 📊 Summary & Stats
 
-- **Total Lessons Completed**: 7 / 60
+- **Total Lessons Completed**: 8 / 60
 - **Current Streak**: 3 Days 🔥
 - **Target Focus**: Intermediate to Mastery (Text Objects, Registers, Macros, Multi-File Workflows, Python)
 - **Favorite Skill / Power Command**: `Ctrl-v` + `I` / `A` (Visual Block Column Editing)
@@ -18,6 +18,7 @@ Welcome to your structured Neovim learning journey! Every lesson completed will 
 | Date | Lesson ID | Title | Status | Key Takeaways / Keystrokes Mastered |
 |---|---|---|---|---|
 <!-- LOG_ENTRIES -->
+| 2026-08-12 | day-23_line-jumps | Day 23: Line Jumps & Bracket Matching | Completed | Mastered gg, G, :[num], [num]G, 50%, %, d%, dG |
 | 2026-08-12 | day-22_search-patterns | Day 22: Search Patterns | Completed | Mastered /, ?, n, N, *, #, g*, g#, cgn + dot formula |
 | 2026-08-12 | day-19_advanced-text-objects | Day 19: Advanced Text Objects | Completed | Mastered is, as, ip, ap, it, at (sentences, paragraphs, HTML tags) |
 | 2026-08-11 | day-25_visual-block-operations | Day 25: Visual Block Column Editing | Completed | Mastered Ctrl-v (I, A, c, d), column editing, multi-line comment/append |
@@ -39,7 +40,7 @@ Welcome to your structured Neovim learning journey! Every lesson completed will 
 ### 🔵 Phase 2: Precision Navigation & Visual Block (Days 21-28)
 - [x] Day 21: Jump History (`Ctrl-o`, `Ctrl-i`)
 - [x] Day 22: Search Patterns (`/`, `?`, `n`, `N`, `*`, `#`)
-- [ ] Day 23: Line Jumps (`gg`, `G`, `:[num]`, `{num}G`, `%`)
+- [x] Day 23: Line Jumps (`gg`, `G`, `:[num]`, `{num}G`, `%`)
 - [ ] Day 24: Marks (`ma`, `'a`, `` `a ``)
 - [x] Day 25: Visual Block Column Editing (`Ctrl-v`)
 - [ ] Day 26: Indent Operations (`>>`, `<<`, `=`)
